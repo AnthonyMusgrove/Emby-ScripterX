@@ -35,4 +35,17 @@ On Media Item Added | %item.id%, %item.path%, %item.album, %item.albumid%, %item
 On Media Item Updated | %item.id%, %item.path%, %item.album, %item.albumid%, %item.mediatype%, %item.originaltitle%, %item.tagline%, %item.overview% 
 On Media Item Removed | %item.id%, %item.path%, %item.album, %item.albumid%, %item.mediatype%, %item.originaltitle%, %item.tagline%, %item.overview% 
 
+### Example Usecases
 
+When a user plays a media file, On Playback Start is executed.  This example (on linux) executes my bash script located at /home/medius/scripts/test.sh, supplying the script with the arguments/parameters 'PlaybackStart "%item.name%" "%item.path%" %username% %device.name%'
+
+/home/medius/scripts/test.sh PlaybackStart "%item.name%" "%item.path%" %username% %device.name%
+
+test.sh contains the following script:
+
+#!/bin/bash
+echo $@ >> /home/medius/scripts/scriptx.log
+
+which outputs text to scriptx.log:
+
+PlaybackStart Family Guy Presents Stewie Griffin: The Untold Story /home/medius/media/Movies/Stewie Griffin - The untold story.avi Anthony Firefox
