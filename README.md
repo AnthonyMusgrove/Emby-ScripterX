@@ -27,13 +27,13 @@ Event | Tokens Available
 ----- | ----------------
 On Authentication Failed | %username%, %user.id%, %device.id%, %device.name%, %password% 
 On Authentication Success | %username%, %user.id%, %server.name%, %server.id%, %device.id%, %device.name% 
-On Playback Start | %user.id%, %username%, %device.id%, %device.name%, %server.id%, %item.id%, %item.path%, %item.album, %item.albumid%, %item.mediatype%, %item.originaltitle%, %item.tagline%, %item.overview% 
-On Playback Stopped | %user.id%, %username%, %device.id%, %device.name%, %server.id%, %item.id%, %item.path%, %item.album, %item.albumid%, %item.mediatype%, %item.originaltitle%, %item.tagline%, %item.overview% 
+On Playback Start | %user.id%, %username%, %device.id%, %device.name%, %server.id%,%item.name%, %item.id%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.content.type%, %item.library.name%
+On Playback Stopped | %user.id%, %username%, %device.id%, %device.name%, %server.id%, %item.name%, %item.id%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.content.type%, %item.library.name%
 On Session Started | %user.id%, %username%, %device.id%, %device.name%, %server.id% 
 On Session Ended | %user.id%, %username%, %device.id%, %device.name%, %server.id% 
-On Media Item Added | %item.id%, %item.path%, %item.album, %item.albumid%, %item.mediatype%, %item.originaltitle%, %item.tagline%, %item.overview% 
-On Media Item Updated | %item.id%, %item.path%, %item.album, %item.albumid%, %item.mediatype%, %item.originaltitle%, %item.tagline%, %item.overview% 
-On Media Item Removed | %item.id%, %item.path%, %item.album, %item.albumid%, %item.mediatype%, %item.originaltitle%, %item.tagline%, %item.overview% 
+On Media Item Added | %item.name%, %item.id%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.content.type%, %item.library.name%
+On Media Item Updated | %item.name%, %item.id%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.content.type%, %item.library.name%
+On Media Item Removed | %item.name%, %item.id%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.content.type%, %item.library.name%
 
 ### Example Usecases
 
