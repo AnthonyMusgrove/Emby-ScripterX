@@ -1,5 +1,5 @@
 # Emby-ScripterX
-![Logo](ScripterX_Logo_1002.png)
+![Logo](ScripterX_Logo_1003.png)
 
 Run custom external application or script (batch/bash) on various events within the Emby Server.  
 
@@ -34,7 +34,7 @@ On Session Ended | %user.id%, %username%, %device.id%, %device.name%, %server.id
 On Media Item Added | %item.name%, %item.id%, %item.type%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.library.type%, %item.library.name%
 On Media Item Updated | %item.name%, %item.id%, %item.type%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.library.type%, %item.library.name%
 On Media Item Removed | %item.name%, %item.id%, %item.type%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.library.type%, %item.library.name%
-
+On Scheduled Task | No tokens available yet
 ### Example Usecases
 
 When a user plays a media file, On Playback Start is executed.  This example (on linux) executes my bash script located at /home/medius/scripts/test.sh, supplying the script with the arguments/parameters 'PlaybackStart "%item.name%" "%item.path%" %username% %device.name%'
