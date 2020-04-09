@@ -1,5 +1,5 @@
 # Emby-ScripterX
-![Logo](ScripterX_Logo_1005.png)
+![Logo](ScripterX_Logo_1006.png)
 
 Run custom external application or script (batch/bash) on various events within the Emby Server.  
 
@@ -32,7 +32,7 @@ On Playback Stopped | %user.id%, %username%, %device.id%, %device.name%, %server
 On Session Started | %user.id%, %username%, %device.id%, %device.name%, %server.id% 
 On Session Ended | %user.id%, %username%, %device.id%, %device.name%, %server.id% 
 On Media Item Added | %item.name%, %item.id%, %item.type%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.library.type%, %item.library.name%, %series.id%, %series.name%, %season.id%, %season.name%
-On Media Item Updated | %item.name%, %item.id%, %item.type%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.library.type%, %item.library.name%, %series.id%, %series.name%, %season.id%, %season.name%
+On Media Item Updated | %item.update.reason% %item.name%, %item.id%, %item.type%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.library.type%, %item.library.name%, %series.id%, %series.name%, %season.id%, %season.name%
 On Media Item Removed | %item.name%, %item.id%, %item.type%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.library.type%, %item.library.name%, %series.id%, %series.name%, %season.id%, %season.name%
 On Scheduled Task | No tokens available yet
 
