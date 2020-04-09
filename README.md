@@ -9,13 +9,13 @@ To install Emby-ScripterX, simply copy the Emby-ScripterX.dll to your plugin dir
 ## Configuration
 
 ### Linux
-![Configuration-Linux](Emby-ScripterX_Config_Linux.png)
+![Configuration-Linux](Emby-ScripterX_Config_Linux_1005.png)
 
 #### Interpreter Path
 the path of the bash interpreter on your system, usually /bin/bash
 
 ### Windows
-![Configuration-Windows](Emby-ScripterX_Config_Windows.png)
+![Configuration-Windows](Emby-ScripterX_Config_Windows_1005.png)
 
 #### Interpreter Path
 the path of the running executable for your scripts.  If you're using batch files, this should point to your commandline executable, for example c:\windows\system32\cmd.exe
