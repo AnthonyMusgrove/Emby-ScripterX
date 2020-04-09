@@ -1,5 +1,5 @@
 # Emby-ScripterX
-![Logo](ScripterX_Logo_1006.png)
+![Logo](ScripterX_Logo_1007.png)
 
 Run custom external application or script (batch/bash) on various events within the Emby Server.  
 
@@ -35,6 +35,7 @@ On Media Item Added | %item.name%, %item.id%, %item.type%, %item.path%, %item.or
 On Media Item Updated | %item.update.reason% %item.name%, %item.id%, %item.type%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.library.type%, %item.library.name%, %series.id%, %series.name%, %season.id%, %season.name%
 On Media Item Removed | %item.name%, %item.id%, %item.type%, %item.path%, %item.originaltitle%, %item.tagline%, %item.overview%, %location.type%, %item.library.type%, %item.library.name%, %series.id%, %series.name%, %season.id%, %season.name%
 On Scheduled Task | No tokens available yet
+On Library Scan Completed | No tokens available yet
 
 Note: %series.id%, %series.name%, %season.id%, %season.name% only available if media type is Episode.
 
