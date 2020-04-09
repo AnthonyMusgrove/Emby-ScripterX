@@ -1,5 +1,5 @@
 # Emby-ScripterX
-![Logo](ScripterX_Logo_1007.png)
+![Logo](Logo_1008.png)
 
 Run custom external application or script (batch/bash) on various events within the Emby Server.  
 
@@ -12,14 +12,10 @@ To install Emby-ScripterX, simply copy the Emby-ScripterX.dll to your plugin dir
 ![Configuration-Linux](Emby-ScripterX_Config_Linux_1005.png)
 
 #### Interpreter Path
-the path of the bash interpreter on your system, usually /bin/bash
+the path of the bash interpreter on your system, usually /bin/bash, cmd.exe or powershell.exe
 
 ### Windows
 ![Configuration-Windows](Emby-ScripterX_Config_Windows_1005.png)
-
-#### Interpreter Path
-the path of the running executable for your scripts.  If you're using batch files, this should point to your commandline executable, for example c:\windows\system32\cmd.exe
-
 
 ### Supported Events
 
@@ -53,3 +49,9 @@ echo $@ >> /home/medius/scripts/scriptx.log
 which outputs text to scriptx.log:
 
 PlaybackStart Family Guy Presents Stewie Griffin: The Untold Story /home/medius/media/Movies/Stewie Griffin - The untold story.avi Anthony Firefox
+
+
+For cmd.exe / batch files, set the Interpreter Path to cmd.exe, and your Event code should begin with /c /s path\to\script.bat arguments here
+
+For powershell.exe, set your Interpreter Path to powershell.exe, and your Event code should look something like this:
+-File "D:\embyscripts\ScripterX-test.ps1" -Name %item.name% -ID %item.id% -Type %item.type% -LibName %item.library.name%
