@@ -7,6 +7,9 @@ Run custom external application or script (batch/bash) on various events within 
 ## Installation
 To install Emby-ScripterX, simply copy the Emby-ScripterX.dll to your plugin directory and restart your Emby Server.   This plugin supports Windows and Linux based installations.
 
+## Configuration - Actions
+<img src="Images/Actions.png" width="400px">
+
 ### Supported Events
 
 Event | Tokens Available
