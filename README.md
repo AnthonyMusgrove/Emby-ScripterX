@@ -1,6 +1,6 @@
 
 # Emby-ScripterX
-![Logo](Images/EmbyScripterX_Logo_v2.png)
+![Logo](Images/EmbyScripterX_Logo_v2.png | width=80)
 
 Run custom external application or script (batch/bash) on various events within the Emby Server.  
 
