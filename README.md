@@ -39,6 +39,10 @@ On Library Scan Completed | %scan.duration%, %scan.duration.days%, %scan.duratio
 
 Note: %series.id%, %series.name%, %season.id%, %season.name% only available if media type is Episode.
 
+#### Working Example - Linux (onPlayback)
+<img src="Images/Working_Example_Linux.png" width="70%">
+
+
 #### Community Script Interface
 This functionality will be introduced over time, to ensure we are providing this functionality at a secure level.  The idea behind this interface is essentially giving the Emby Scripter-X community the ability to submit their own script ideas to be listed in the Scripts catalog, allowing other Emby Scripter-X users to utilise these scripts.  Currently, there is a little bit more design and thinking required to allow this to occur safely, but rest assured, it will be great.
 
