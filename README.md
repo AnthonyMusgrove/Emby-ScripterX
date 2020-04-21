@@ -11,6 +11,7 @@ To install Emby-ScripterX, simply copy the Emby-ScripterX.dll to your plugin dir
 
 #### Actions Interface
 <img src="Images/Actions.png" width="90%">
+<img src="Images/onCameraImageUploaded.png" width="90%">
 
 #### Add new action to onPlaybackStart
 <img src="Images/onPlaybackStart_Example_AddNew.png" width="70%">
