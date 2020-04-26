@@ -5,6 +5,14 @@
 Run custom external application or script (batch/bash) on various events within the Emby Server.  
 
 ### Installation
+
+#### Emby Server Plugin Catalog (recommended)
+
+It is recommended that you install Emby Scripter-X via your Plugins catalog in your Emby Server Dashboard.  This will ensure your Emby Media Server will keep this plugin up to date every time we release a new version.
+
+
+#### Manual Installation
+
 To install Emby-ScripterX, simply copy the Emby-ScripterX.dll to your plugin directory and restart your Emby Server.   This plugin supports Windows, Linux and Mac OSX based installations.
 
 ### Configuration
