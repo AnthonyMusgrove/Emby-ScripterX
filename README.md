@@ -1,6 +1,6 @@
 
 # Emby-ScripterX
-<img src="Images/EmbyScripterX_Logo_v215.png" width="30%">
+<img src="Images/EmbyScripterX_Logo_v217.png" width="30%">
 
 Run custom external application or script (batch/bash/powershell/php/python/custom) on various events within the Emby Server.  
 
