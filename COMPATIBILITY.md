@@ -6,7 +6,7 @@
 OS Version | Compatible | Notes | Tested By
 ---------- | ---------- | ----- | ---------
 10 | Yes  | | Anthony
-7 | Untested | | Anthony
+7 | Untested | | 
 
 #### Linux
 OS Version | Compatible | Notes | Tested By
