@@ -53,8 +53,8 @@ on Live TV Recording Ended | %recording.id%, %recording.program.id%, %recording.
 on Scheduled Task Start | %task.category%, %task.name%, %task.id%
 on Scheduled Task Ended | %task.id%, %task.category%, %task.result%, %task.name%, %task.start.time%, %task.end.time%, %task.start.time.utc%, %task.end.time.utc%
 
-Note: %series.id%, %series.name%, %season.id%, %season.name% only available if media type is Episode.
-Also Note: Some tokens may not be available to both Live TV recording events; eg on Start, %recording.path% is empty as there is no path until it's finished recording.
+<strong>Note:</strong> %series.id%, %series.name%, %season.id%, %season.name% only available if media type is Episode.<br/>
+<strong>Also Note:</strong> Some tokens may not be available to both Live TV recording events; eg on Start, %recording.path% is empty as there is no path until it's finished recording.
 
 #### Working Example - Linux (onPlayback)
 <img src="Images/Working_Example_Linux.png" width="70%">
