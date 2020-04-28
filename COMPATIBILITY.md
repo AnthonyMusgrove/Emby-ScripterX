@@ -51,4 +51,4 @@ Current | Untested
 
 OS Version | Compatible | Notes | Tested By
 ---------- | ---------- | ----- | ---------
-Current | Untested  
+Current | Yes | Interpreter used: /bin/sh, tested with playback.sh | Anthony  
