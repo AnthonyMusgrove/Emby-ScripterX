@@ -4,13 +4,13 @@
 
 #### Windows
 OS Version | Compatible | Notes | Tested By
------ | ----------------
+---------- | ---------- | ----- | ---------
 10 | Yes  | | Anthony
 7 | Untested | | Anthony
 
 #### Linux
-OS Version | Compatible | Notes | Tester
------ | ----------------
+OS Version | Compatible | Notes | Tested By
+---------- | ---------- | ----- | ---------
 Arch Linux | Untested  
 CentOS | Untested
 Debian | Yes | | Anthony
@@ -20,13 +20,13 @@ OpenSuse | Untested
 Ubuntu | Untested
 
 #### Mac OSX
-OS Version | Compatible | Notes
------ | ----------------
+OS Version | Compatible | Notes | Tested By
+---------- | ---------- | ----- | ---------
 Current | Untested  
 
 #### NAS Devices
-Device | Compatible | Notes
------ | ----------------
+Device | Compatible | Notes | Tested By
+------ | ---------- | ----- | ---------
 Asustor | Untested  
 FreeNAS | Untested  
 Netgear ReadyNas | Untested  
@@ -38,17 +38,17 @@ Thecus | Untested
 Western Digital | Untested  
 
 #### Docker
-OS Version | Compatible | Notes
------ | ----------------
+OS Version | Compatible | Notes | Tested By
+---------- | ---------- | ----- | ---------
 Current | Untested  
 
 #### FreeBSD
-OS Version | Compatible | Notes
------ | ----------------
+OS Version | Compatible | Notes | Tested By
+---------- | ---------- | ----- | ---------
 Current | Untested  
 
 #### Android Shield
 
-OS Version | Compatible | Notes
------ | ----------------
+OS Version | Compatible | Notes | Tested By
+---------- | ---------- | ----- | ---------
 Current | Untested  
