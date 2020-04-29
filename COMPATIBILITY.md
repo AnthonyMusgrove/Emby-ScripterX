@@ -5,16 +5,16 @@
 #### Windows
 OS Version | Compatible | Notes | Tested By
 ---------- | ---------- | ----- | ---------
-10 | Yes  | | Anthony
+10 | Yes  | | [Anthony](https://emby.media/community/index.php?/user/287751-anthonymusgrove/)
 7 | Untested | | 
-Win 2012 R2 Essentials | Yes | | Penkethboy
+Win 2012 R2 Essentials | Yes | | [Penkethboy](https://emby.media/community/index.php?/user/134563-penkethboy/)
 
 #### Linux
 OS Version | Compatible | Notes | Tested By
 ---------- | ---------- | ----- | ---------
 Arch Linux | Untested  
 CentOS | Untested
-Debian | Yes | | Anthony
+Debian | Yes | | [Anthony](https://emby.media/community/index.php?/user/287751-anthonymusgrove/)
 Fedora | Untested
 Linux Mint | Untested
 OpenSuse | Untested
@@ -52,4 +52,4 @@ Current | Untested
 
 OS Version | Compatible | Notes | Tested By
 ---------- | ---------- | ----- | ---------
-Current | Yes | Interpreter used: /bin/sh, tested with playback.sh | Anthony  
+Current | Yes | Interpreter used: /bin/sh, tested with playback.sh | [Anthony](https://emby.media/community/index.php?/user/287751-anthonymusgrove/)  
