@@ -7,6 +7,7 @@ OS Version | Compatible | Notes | Tested By
 ---------- | ---------- | ----- | ---------
 10 | Yes  | | Anthony
 7 | Untested | | 
+Win 2012 R2 Essentials | Yes | | Penkethboy
 
 #### Linux
 OS Version | Compatible | Notes | Tested By
