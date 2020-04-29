@@ -18,19 +18,13 @@ To install Emby-ScripterX, simply copy the Emby-ScripterX.dll to your plugin dir
 ### Configuration
 
 #### Actions Interface
-<img src="Images/Actions.png" width="90%">
-<img src="Images/onCameraImageUploaded.png" width="90%">
-<img src="Images/onLiveTVRecording_Updated.png" width="90%">
-<img src="Images/onScheduledTaskStartEnded.png" width="90%">
-
-#### Add new action to onPlaybackStart
-<img src="Images/onPlaybackStart_Example_AddNew.png" width="70%">
+<img src="Images/ActionsInterface_219.png" width="90%">
 
 #### Edit Action
-<img src="Images/onPlaybackStart_Example_Edit.png" width="70%">
+<img src="Images/onPlaybackStart_219.png" width="70%">
 
-#### Save Action
-<img src="Images/onPlaybackStart_Example_Save.png" width="70%">
+#### Save Actionon
+<img src="Images/PlaybackStart_219_Saved.png" width="70%">
 
 ### Supported Events
 
