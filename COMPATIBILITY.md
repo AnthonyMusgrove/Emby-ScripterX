@@ -2,19 +2,19 @@
 
 <p>If you've tested Scripter-X on any of these devices and are able to advise us of compatibility or any issues it would be greatly appreciated.</p>
 
-#### Windows
+#### Microsoft
 OS Version | Compatible | Notes | Tested By
 ---------- | ---------- | ----- | ---------
-10 | Yes  | | [Anthony](https://emby.media/community/index.php?/user/287751-anthonymusgrove/)
+[Windows 10](https://emby.media/windows-server.html) | Yes  | | [Anthony](https://emby.media/community/index.php?/user/287751-anthonymusgrove/)
 7 | Untested | | 
-Win 2012 R2 Essentials | Yes | | [Penkethboy](https://emby.media/community/index.php?/user/134563-penkethboy/)
+[Win 2012 R2 Essentials](https://emby.media/windows-server.html) | Yes | | [Penkethboy](https://emby.media/community/index.php?/user/134563-penkethboy/)
 
 #### Linux
 OS Version | Compatible | Notes | Tested By
 ---------- | ---------- | ----- | ---------
 Arch Linux | Untested  
 CentOS | Untested
-Debian | Yes | | [Anthony](https://emby.media/community/index.php?/user/287751-anthonymusgrove/)
+[Debian](https://emby.media/linux-server.html) | Yes | | [Anthony](https://emby.media/community/index.php?/user/287751-anthonymusgrove/)
 Fedora | Untested
 Linux Mint | Untested
 OpenSuse | Untested
@@ -52,4 +52,4 @@ Current | Untested
 
 OS Version | Compatible | Notes | Tested By
 ---------- | ---------- | ----- | ---------
-Current | Yes | Interpreter used: /bin/sh, tested with playback.sh | [Anthony](https://emby.media/community/index.php?/user/287751-anthonymusgrove/)  
+[Android x86](https://emby.media/server-android.html) | Yes | Interpreter used: /bin/sh, tested with playback.sh | [Anthony](https://emby.media/community/index.php?/user/287751-anthonymusgrove/)  
