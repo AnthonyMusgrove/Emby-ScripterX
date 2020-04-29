@@ -21,10 +21,10 @@ To install Emby-ScripterX, simply copy the Emby-ScripterX.dll to your plugin dir
 <img src="Images/ActionsInterface_219.png" width="90%">
 
 #### Edit Action
-<img src="Images/onPlaybackStart_219.png" width="70%">
+<img src="Images/onPlaybackStart_219.png" width="90%">
 
 #### Save Action
-<img src="Images/onPlaybackStart_219_Saved.png" width="70%">
+<img src="Images/onPlaybackStart_219_Saved.png" width="90%">
 
 ### Supported Events
 
