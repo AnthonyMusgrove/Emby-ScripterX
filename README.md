@@ -45,10 +45,6 @@ on Scheduled Task Ended | %task.id%, %task.category%, %task.result%, %task.name%
 <strong>Note:</strong> %series.id%, %series.name%, %season.id%, %season.name% only available if media type is Episode.<br/>
 <strong>Also Note:</strong> Some tokens may not be available to both Live TV recording events; eg on Start, %recording.path% is empty as there is no path until it's finished recording.
 
-#### Working Example - Linux (onPlayback)
-<img src="Images/Working_Example_Linux.png" width="70%">
-
-
 #### Community Script Interface
 This functionality will be introduced over time, to ensure we are providing this functionality at a secure level.  The idea behind this interface is essentially giving the Emby Scripter-X community the ability to submit their own script ideas to be listed in the Scripts catalog, allowing other Emby Scripter-X users to utilise these scripts.  Currently, there is a little bit more design and thinking required to allow this to occur safely, but rest assured, it will be great.
 
