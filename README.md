@@ -20,6 +20,8 @@ To install Emby-ScripterX, simply copy the Emby-ScripterX.dll to your plugin dir
 #### Actions Interface (Dark Theme)
 <img src="Images/Actions_225pDemo.png" width="90%">
 
+#### Currently tested interpreters 
+<img src="Images/_supported_scripterx.png">
 
 ### Supported Events
 
