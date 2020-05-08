@@ -1,6 +1,6 @@
 
 # Emby-ScripterX
-<img src="Images/EmbyScripterX_Logo_v229.png" width="30%">
+<img src="Images/EmbyScripterX_Logo_v230.png" width="30%">
 
 Run custom external application or script (batch/bash/powershell/php/python/custom) on various events within the Emby Server.  
 
@@ -18,7 +18,7 @@ To install Emby-ScripterX, simply copy the Emby-ScripterX.dll to your plugin dir
 ### Configuration
 
 #### Actions Interface (Dark Theme)
-<img src="Images/Actions_299.png" width="90%">
+<img src="Images/Actions_230.png" width="90%">
 
 #### Currently tested interpreters 
 
