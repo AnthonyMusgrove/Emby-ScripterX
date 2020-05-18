@@ -21,6 +21,8 @@ To install Emby-ScripterX, simply copy the Emby-ScripterX.dll to your plugin dir
 
 ScripterX now supports conditions that are configurable by a simple & elegant drag-and-drop interface.  Conditional Operators are added as needed; so if you have any suggestions please feel free to suggest them via opening a GitHub ISSUE, we will tag it as a feature request!
 
+<img src='Images/Scratchpad_v234.png' width="90%">
+
 Operator | Information | Example
 -------- | ----------- | -------
 AND | Javascript && equivalent | %token% Equals TextValue AND %token2% Doesnt Equal Othertextvalue
