@@ -26,7 +26,7 @@ ScripterX now supports conditions that are configurable by a simple & elegant dr
 Operator | Information | Example
 -------- | ----------- | -------
 AND | Javascript && equivalent | %token% Equals TextValue AND %token2% Doesnt Equal Othertextvalue
-OR | Javascript || equivalent  | %token% Equals TextValue OR %token2% Equals Othertextvalue
+OR | Javascript &#7C;&#7C; equivalent  | %token% Equals TextValue OR %token2% Equals Othertextvalue
 Text Value | Any text value, simply drag and drop, click on it and edit. | %item.name% Equals "Waynes World"
 Equals | == Javascript equivalent | %token% Equals Movie (see Entity Types)
 Doesnt Equal | != Javascript equivalent | %token% Doesnt Equal Episode (see Entity Types)
