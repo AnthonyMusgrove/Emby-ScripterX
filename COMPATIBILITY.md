@@ -18,7 +18,7 @@ CentOS | Untested
 Fedora | Untested
 Linux Mint | Untested
 OpenSuse | Untested
-Ubuntu | Untested
+Ubuntu | Yes | | Anthony
 
 #### Mac OSX
 OS Version | Compatible | Notes | Tested By
@@ -32,7 +32,7 @@ Asustor | Untested
 FreeNAS | Untested  
 Netgear ReadyNas | Untested  
 Open Media Vault | Untested  
-QNAP | Untested  
+QNAP | Yes | | Penkethboy 
 Synology | Untested  
 TerraMaster | Untested  
 Thecus | Untested  
@@ -41,7 +41,7 @@ Western Digital | Untested
 #### Docker
 OS Version | Compatible | Notes | Tested By
 ---------- | ---------- | ----- | ---------
-Current | Untested  
+Current | Yes | | Anthony, Slugger
 
 #### FreeBSD
 OS Version | Compatible | Notes | Tested By
