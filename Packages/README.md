@@ -1,3 +1,6 @@
+
+# TO BE UPDATED SHORTLY.
+
 # Scripter-X Packages
 
 Scripter-X Packages allow community contributions to extend Scripter-X's ability to serve its purpose well.   A package will be installable within the server console.  An example package zip file is included in this directory for you to see how they function, and give you some information regarding what is available to you as a scripter.
