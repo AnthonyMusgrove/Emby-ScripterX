@@ -1,3 +1,11 @@
+<u>3.0.5.3</u>
+
+<strong>General</strong>
+* Added some logical housekeeping to onRecordingTimerCreated to address [<a is="emby-linkbutton" target= '_blank' href="https://github.com/AnthonyMusgrove/Emby-ScripterX/issues/45" class="button-link emby-button">Github Issue#45</a>]
+* Rectified reported bug for _onAuthenticationSuccess not executing. [<a is="emby-linkbutton" target= '_blank' href="https://github.com/AnthonyMusgrove/Emby-ScripterX/issues/43" class="button-link emby-button">Github Issue#43</a>], issue was that two instances of %server.name% were trying to be added to the token context.  Changed the 'Auth' server name token to %user.server.name%
+
+<hr/>
+
 <u>3.0.5.2</u>
 
 <strong>General</strong>
