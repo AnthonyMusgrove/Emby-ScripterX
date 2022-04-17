@@ -1,3 +1,24 @@
+<u>4.0.0.1</u>
+<strong>General</strong>
+* Added token %session.id% to all Session events on request of digitalirony, to address [<a is="emby-linkbutton" target= '_blank' href="https://github.com/AnthonyMusgrove/Emby-ScripterX/discussions/60" class="button-link emby-button">Github Discussion#60</a>]
+
+<hr/>
+
+<u>4.0.0.0</u>
+<strong>General</strong>
+* Compiled against BETA 4.7+ packages and libraries
+* Modified LiveTV functionality to suit new library adjustments
+* Required: Testing, Testing, Testing - please report any issues to the GitHub ISSUE LIST (Thank you!)
+
+<hr/>
+
+<u>3.0.5.5</u>
+
+<strong>General</strong>
+* Rectified reference to Emby LiveTV, create new platform and baseline for debugging moving forward
+
+<hr/>
+
 <u>3.0.5.3</u>
 
 <strong>General</strong>
