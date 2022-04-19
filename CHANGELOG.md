@@ -1,3 +1,20 @@
+<u>4.0.0.3</u>
+<strong>General</strong>
+* WEB:GET, WEB:POST now allows tokens in URL ('script' field), and POST payload file ('parameters' field),  addressing [<a is="emby-linkbutton" target= '_blank' href="https://github.com/AnthonyMusgrove/Emby-ScripterX/issues/57" class="button-link emby-button">Github Issue#57</a>]
+
+<hr/>
+
+<u>4.0.0.2</u>
+<strong>General</strong>
+* Added /bin/sh to interpreter dropdown list to address [<a is="emby-linkbutton" target= '_blank' href="https://github.com/AnthonyMusgrove/Emby-ScripterX/issues/56" class="button-link emby-button">Github Issue#56</a>]
+
+<strong>New functionality</strong>
+* Added SendMessage:SessionID to configure ScripterX to send an on screen notification to a 
+particular sessionid when certain conditions are met.  How to use this will be available on 
+the Wiki shortly, and is also available on the support forum.
+
+<hr/>
+
 <u>4.0.0.1</u>
 <strong>General</strong>
 * Added token %session.id% to all Session events on request of digitalirony, to address [<a is="emby-linkbutton" target= '_blank' href="https://github.com/AnthonyMusgrove/Emby-ScripterX/discussions/60" class="button-link emby-button">Github Discussion#60</a>]
