@@ -20,7 +20,7 @@ To install Emby-ScripterX, simply copy the Emby-ScripterX.dll to your plugin dir
 #### Packages (new!)
 
 
-ScripterX now has a packages implementation.  See the [packages wiki page](https://wiki.emby-scripterx.com/books/packages) for more information.
+ScripterX now has a packages implementation.  See the [packages wiki page](https://wiki.emby-scripterx.com/doku.php?id=packages) for more information.
 
 <img src='Images/sxPackagesInterfacev_300.png' width="90%">
 
