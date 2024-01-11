@@ -1,6 +1,11 @@
 Beta Releases
 -------------
 
+Version 5.0.0.2
+---------------
+- Rectified various javascript issues with new framework for Emby Beta 4.8.0.67+
+- Temporarily removed 'Packages' tab (this entire section needs revamping/re-evaluating)
+
 Version 5.0.0.0+ 
 ------------------------
 This version is intended for Emby Server 4.8.*+ (BETA CHANNEL).  This will not work on previous 4.7 server release versions.  This DLL will be updated as time permits.  The official Emby Plugin Catalog is still our official point of release for both RELEASE & BETA streams.  We're just in the process of reconnecting with the Emby Dev Team to provide our next BETA release (this release) to the Live catalog.
