@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+As a new version is released, the old is no longer updated, so therefore, only the latest version of the plugin should be used where practicable. 
 
 | Version | Supported          |
 | ------- | ------------------ |
