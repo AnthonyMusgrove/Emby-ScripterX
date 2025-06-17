@@ -7,15 +7,11 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 6.0.0.8   | :white_check_mark: |
+| <6.0.0.8   | :x:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Let us know if you find any security vulnerabilities or issues by writing to us directly at our support email address (support@emby-scripterx.au).  Please do NOT publish any vulnerabilities publicly so that we have the appropriate time to address the issue before it is published and others utilise said vulnerability for their own ill intent.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+There are no known vulnerabilities, and no historical vulnerabilities to report.
